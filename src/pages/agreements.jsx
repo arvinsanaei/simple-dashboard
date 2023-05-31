@@ -8,8 +8,8 @@ const Dashboard = () => {
     <div className="dashboard-lan">
       <div className="title-page">Agreements</div>
       <AgreementTable></AgreementTable>
-      {/* <CodingIn></CodingIn> */}
       <Pagination></Pagination>
+      {/* <CodingIn></CodingIn> */}
     </div>
   );
 };
