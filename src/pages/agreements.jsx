@@ -10,6 +10,7 @@ const Dashboard = () => {
       <AgreementTable></AgreementTable>
       <Pagination></Pagination>
       {/* <CodingIn></CodingIn> */}
+      <div>Adding some features to apps</div>
     </div>
   );
 };
